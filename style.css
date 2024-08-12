@@ -9,7 +9,7 @@ body{
 }
 
 #display{
-    width: 100%;
+    width: 92%;
     padding:20px;
     font-size: 5rem;
     text-align: left;
@@ -23,7 +23,7 @@ body{
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     max-width: 500px;
-    overflow: hidden;
+    
     transform: scale(0.60);
 }
 
